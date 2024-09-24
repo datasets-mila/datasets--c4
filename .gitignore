@@ -1,5 +1,5 @@
 .nfs*
 *.jugdata/
 /.tmp/
-/bin/git-lfs-linux-amd64-v*/
 /logs/
+/bin/git-lfs-linux-amd64-v*/
